@@ -1,2 +1,3 @@
-# Inspirational-Quotes-
+# Inspirational-Quotes
 Inspirational Quotes is an chrome based web extension.
+You click on this google chrome extension to get a inspiration quote everytime.

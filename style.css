@@ -1,0 +1,31 @@
+body {
+    /* width: 300;
+    /* min-height: 80vh; */
+    min-width: 100vh;
+    height: 300px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(210, 255, 210);
+    
+  }
+  /* .card {
+    width: 80%;
+    max-width: 700px; */
+  /* }
+  .card-body {
+    padding: 40px;
+  } */
+  .card-body {
+    display: inner-flex;
+    margin: auto 10px;
+   font-size: 22px; 
+    color: rgb(58, 58, 59);
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 10px;
+}
+.me{
+    font-size: 15px;
+}

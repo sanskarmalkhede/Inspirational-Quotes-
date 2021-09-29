@@ -1,4 +1,4 @@
-
+// https://github.com/sanskarmalkhede/Inspirational-Quotes-
 document.addEventListener("DOMContentLoaded", () => {
     // DOM elements
     const button = document.querySelector("button");
